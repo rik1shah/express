@@ -10,7 +10,7 @@
     { "name": "Guillermo Rauch", "email": "rauchg@gmail.com" }
   ],
   "dependencies": {
-    "connect": "git@github.com:rik1shah/connect.git#d91959040001aac76f463fdcd751e4dfecc88cb6",
+    "connect": "git@github.com:rik1shah/connect.git#d919590400",
     "mime": ">= 0.0.1",
     "qs": ">= 0.3.1",
     "mkdirp": "0.0.7"
